@@ -1,0 +1,29 @@
+METHODS
+
+Hierarchical clustering of 56 Pseudomonas aeruginosa isolates was performed using
+a Gower-type mixed-variable distance matrix combined with UPGMA (Unweighted Pair
+Group Method with Arithmetic Mean) average linkage clustering.
+
+Twenty-two phenotypic and genotypic variables were included: 12 antibiotic
+susceptibility results (LEV, CIP, OFX, IPM, AN, TOB, GM, CAZ, PTZ, AZT, MEN, FEP),
+two virulence genes (exoS, exoU), protease activity (Pro), biofilm formation (BF),
+mucoidity (AP), pigment production (Pig), disease phase (EX), sample type (ST),
+gender (Gen), and age (Age).
+
+Variable-specific distance calculations:
+
+1. Antibiotic susceptibility (ordinal, S=0, I=1, R=2): d = |x_i - x_j| / 2
+2. Age (continuous): d = |Age_i - Age_j| / (Age_max - Age_min)
+3. Binary variables (exoS, exoU, Pro, AP, EX, ST, Gen): d = 0 if same, 1 if different
+4. Biofilm (ordinal, Neg=0, Weak=1, Mod=2, Strong=3): d = |BF_i - BF_j| / 3
+5. Pigment (nominal): d = 0 if same category, 1 if different
+
+Overall Gower distance: D(i,j) = sum(valid distances) / count(valid variables).
+Missing values excluded per pair (NaN-aware). Dataset contained zero missing values.
+
+Clustering: average linkage (UPGMA) on precomputed Gower distance matrix.
+Silhouette analysis: k=2-6, using same Gower matrix (metric="precomputed").
+
+Data correction: 62F3 pigment corrected from Pyocianin to Pyomelanin.
+
+Software: Python 3.12, scipy 1.13, scikit-learn 1.5, matplotlib 3.9.

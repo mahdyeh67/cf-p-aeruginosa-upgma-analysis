@@ -1,0 +1,6 @@
+k,silhouette_score,cluster_sizes
+2,0.3546,"[np.int64(47), np.int64(9)]"
+3,0.3635,"[np.int64(30), np.int64(17), np.int64(9)]"
+4,0.3531,"[np.int64(30), np.int64(17), np.int64(7), np.int64(2)]"
+5,0.3196,"[np.int64(28), np.int64(17), np.int64(7), np.int64(2), np.int64(2)]"
+6,0.2868,"[np.int64(27), np.int64(17), np.int64(7), np.int64(2), np.int64(2), np.int64(1)]"

@@ -1,0 +1,36 @@
+VALIDATION REPORT
+==================
+
+1. Distance matrix dimensions: 56 x 56  [PASS]
+2. Symmetric: True  [PASS]
+3. Diagonal = 0: True  [PASS]
+4. Min non-zero distance: 0.008021  [PASS]
+5. Max distance: 0.861408  [PASS]
+6. All values in [0, 1]: True  [PASS]
+7. Antibiotic coding: S=0, I=1, R=2 (original preserved)  [PASS]
+8. Antibiotic distance = |x_i - x_j| / 2  [PASS]
+9. Age treated as continuous (normalized by range)  [PASS]
+10. BF ordinal (Neg=0, Weak=1, Mod=2, Strong=3)  [PASS]
+11. Nominal variables: same/different only (no Euclidean)  [PASS]
+12. No Euclidean distance used for clustering  [PASS]
+13. UPGMA = average linkage  [PASS]
+14. Silhouette uses precomputed Gower distance  [PASS]
+15. NaN-aware Gower mean (fillna(0) removed)  [PASS]
+16. Total missing values in dataset: 0  [PASS]
+17. Results unchanged after NaN correction (no missing values)  [PASS]
+18. 62F3 pigment corrected: Pyocianin -> Pyomelanin  [PASS]
+19. Heatmap: clean (no cluster markers, black dendrogram only)  [PASS]
+20. Dendrogram generated from corrected Gower distance matrix  [PASS]
+
+SILHOUETTE SCORES
+==================
+k=2: 0.3546, sizes=[47, 9]
+k=3: 0.3635, sizes=[30, 17, 9]
+k=4: 0.3531, sizes=[30, 17, 7, 2]
+k=5: 0.3196, sizes=[28, 17, 7, 2, 2]
+k=6: 0.2868, sizes=[27, 17, 7, 2, 2, 1]
+
+FINAL K=4 CLUSTER SIZES: [30, 17, 7, 2]
+
+CONFIRMATION: The final heatmap uses the same Gower distance matrix and UPGMA
+linkage as reported in this validation report.

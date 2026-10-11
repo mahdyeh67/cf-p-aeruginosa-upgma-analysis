@@ -1,0 +1,57 @@
+Strain,Age,Gen,ST,EX,Pig,AP,BF,Pro,exoS,exoU,OFX,CIP,CAZ,LEV,TOB,IPM,MEN,AN,GM,AZT,FEP,PTZ
+3M10,10,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Strong,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+4M10-2,10,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+5F18,18,F,S,Exacerbation,Pyocianin,non-Mucoid,Weak,Positive,Positive,Negative,2,1,0,2,0,2,0,1,0,0,0,0
+6F18-2,18,F,S,Exacerbation,Pyocianin,non-Mucoid,Weak,Positive,Negative,Positive,2,2,0,2,0,2,0,2,0,0,0,0
+8F12,12,F,S,Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Positive,Negative,2,0,0,1,0,2,0,0,0,0,0,0
+9F12-2,12,F,S,Exacerbation,Pyoverdin,non-Mucoid,Weak,Negative,Positive,Negative,2,1,0,2,0,2,2,1,0,2,1,0
+11F18,18,F,S,Exacerbation,Pyoverdin,Mucoid,Medium,Positive,Positive,Negative,2,1,0,1,0,2,0,0,0,0,0,0
+12F18,18,F,S,Exacerbation,Pyocianin,non-Mucoid,Weak,Positive,Positive,Negative,2,1,0,2,0,1,0,0,0,0,0,0
+14M18,18,M,S,Exacerbation,Pyoverdin,Mucoid,Medium,Negative,Positive,Negative,2,0,0,2,0,2,1,0,0,0,1,0
+15M18-2,18,M,S,Exacerbation,Pyocianin,non-Mucoid,Medium,Positive,Positive,Negative,2,2,0,2,0,2,2,2,1,0,2,0
+16M18-3,18,M,S,Exacerbation,Pyoverdin,Mucoid,Medium,Negative,Positive,Negative,2,1,0,2,0,0,0,0,0,0,0,0
+20F6,6,F,T,non-Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Negative,Positive,0,0,0,0,0,0,0,0,0,0,0,0
+21F6-2,6,F,T,non-Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Negative,Positive,0,0,0,0,0,0,0,0,0,0,0,0
+23F7,7,F,S,Exacerbation,Pyoverdin,non-Mucoid,Strong,Positive,Positive,Negative,2,2,1,2,2,2,2,2,2,2,2,0
+24F7-2,7,F,S,Exacerbation,No pigment,non-Mucoid,Strong,Positive,Positive,Negative,2,2,0,2,2,2,2,2,2,2,2,0
+26F18,18,F,T,non-Exacerbation,Pyoverdin,Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+27F18-2,18,F,T,non-Exacerbation,Pyoverdin,non-Mucoid,Weak,Negative,Negative,Positive,0,0,1,1,1,0,0,2,2,0,0,0
+28M10,10,M,T,non-Exacerbation,Pyocianin,non-Mucoid,Medium,Positive,Positive,Negative,1,0,0,2,2,2,2,2,2,1,1,1
+29M10-2,10,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Strong,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+30M18,18,M,S,Exacerbation,No pigment,non-Mucoid,Weak,Negative,Positive,Negative,2,2,0,1,1,1,0,2,0,0,0,0
+31M1,1,M,T,Exacerbation,No pigment,non-Mucoid,Strong,Negative,Negative,Negative,0,0,0,0,0,0,0,0,0,2,0,0
+33M18,18,M,S,Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Positive,Negative,2,2,2,1,1,2,2,2,2,0,2,0
+37M18-2,18,M,T,Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Positive,Negative,2,1,1,2,0,1,0,2,1,0,0,0
+40F10,10,F,S,Exacerbation,Pyomelanin,non-Mucoid,Medium,Positive,Positive,Negative,2,1,0,2,2,2,0,2,2,0,0,0
+41M9-2,9,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,2,0,0,0,0
+43M7,7,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+44M7-2,7,M,T,non-Exacerbation,Pyocianin,Mucoid,Strong,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+46M18,18,M,T,Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+48F13,13,F,T,non-Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Positive,Negative,1,0,0,1,1,0,0,1,1,0,0,0
+49F4,4,F,T,Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Negative,Positive,0,0,0,0,0,0,0,0,0,0,0,0
+51M7,7,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+54F11,11,F,S,Exacerbation,No pigment,Mucoid,Weak,Positive,Positive,Negative,2,0,0,1,0,0,0,0,0,0,1,0
+55F16,16,F,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+57M16,16,M,T,non-Exacerbation,Pyoverdin,Mucoid,Strong,Positive,Negative,Positive,0,0,0,0,0,0,0,0,0,0,0,0
+59M10,10,M,T,non-Exacerbation,Pyocianin,Mucoid,Strong,Negative,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+62F3,3,F,T,non-Exacerbation,Pyomelanin,non-Mucoid,Weak,Positive,Positive,Negative,2,2,0,2,0,2,0,0,2,0,0,0
+63F11,11,F,T,non-Exacerbation,Pyomelanin,Mucoid,Weak,Positive,Positive,Negative,0,0,1,1,0,0,2,1,0,0,0,0
+84F11-2,11,F,T,non-Exacerbation,Pyoverdin,non-Mucoid,Weak,Positive,Positive,Negative,0,0,2,1,1,0,2,2,2,0,2,0
+64M7,7,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Weak,Positive,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+66M15,15,M,T,non-Exacerbation,Pyoverdin,non-Mucoid,Weak,Negative,Negative,Negative,0,0,0,0,0,0,0,0,0,2,0,0
+67M16,16,M,T,non-Exacerbation,Pyomelanin,Mucoid,Weak,Positive,Negative,Positive,0,0,0,1,1,0,0,2,2,0,0,0
+69M11,11,M,T,non-Exacerbation,Pyoverdin,Mucoid,Weak,Positive,Positive,Negative,0,0,0,0,0,0,0,1,0,0,1,0
+72M7,7,M,T,Exacerbation,Pyoverdin,Mucoid,Strong,Negative,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+73F12,12,F,S,Exacerbation,Pyoverdin,Mucoid,Medium,Negative,Positive,Negative,2,2,0,2,0,1,0,2,1,0,1,0
+74F12,12,F,S,Exacerbation,Pyoverdin,non-Mucoid,Strong,Positive,Positive,Negative,0,0,2,1,0,0,2,0,0,0,0,0
+75M18,18,M,S,Exacerbation,No pigment,non-Mucoid,Weak,Negative,Positive,Negative,2,2,0,2,0,2,1,0,0,0,0,0
+76M10,10,M,S,Exacerbation,Pyocianin,non-Mucoid,Medium,Positive,Positive,Negative,2,2,0,2,0,2,0,2,0,1,0,0
+77M17,17,M,S,Exacerbation,Pyoverdin,non-Mucoid,Weak,Positive,Positive,Negative,1,1,0,2,0,0,0,0,0,0,0,0
+78M14,14,M,T,non-Exacerbation,Pyocianin,non-Mucoid,Medium,Negative,Positive,Negative,0,0,0,0,0,0,0,0,0,0,0,0
+79M12,12,M,T,non-Exacerbation,No pigment,Mucoid,Weak,Positive,Positive,Negative,0,0,0,1,0,0,0,0,0,0,0,0
+80M17,17,M,T,Exacerbation,No pigment,Mucoid,Strong,Positive,Positive,Negative,0,0,2,0,0,0,1,0,0,2,2,0
+82F18,18,F,S,Exacerbation,No pigment,non-Mucoid,Medium,Negative,Positive,Negative,2,2,1,2,2,2,2,2,2,2,2,0
+83M7,7,M,T,non-Exacerbation,Pyomelanin,non-Mucoid,Medium,Negative,Positive,Negative,2,0,2,2,0,2,2,2,2,0,2,0
+85F18,18,F,T,non-Exacerbation,Pyoverdin,non-Mucoid,Medium,Positive,Negative,Positive,0,0,1,0,0,0,0,0,0,0,0,0
+86M18,18,M,T,Exacerbation,No pigment,non-Mucoid,Medium,Negative,Negative,Positive,2,2,2,2,2,1,2,2,2,2,2,0
+87F16,16,F,T,Exacerbation,No pigment,non-Mucoid,Negative,Negative,Positive,Negative,2,2,1,2,2,2,2,2,2,1,2,0
